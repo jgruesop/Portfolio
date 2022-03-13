@@ -1,2 +1,2 @@
 # portfolio
-This is link of my portfolio https://github.com/jgruesop/portfolio
+My portfolio is published at https://jgruesop.github.io/portfolio/
